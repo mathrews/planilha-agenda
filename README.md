@@ -1,2 +1,2 @@
 # planilha-agenda
-Uma planilha de Ajenda diária
+Uma planilha de Agenda diária
